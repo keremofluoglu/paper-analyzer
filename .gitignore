@@ -1,0 +1,28 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Paper data: downloaded PDFs, GROBID output, figures, and every workspace
+# (databases, vector indexes, cards, reports, the user's project notes)
+library/
+workspaces/
+data/
+*.db
+*.db-wal
+*.db-shm
+*.log
+
+# Personal notes
+paper anyleyszier.txt
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

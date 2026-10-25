@@ -1,0 +1,15 @@
+# torch with CUDA (installed in .venv from the wheel in C:\PythonWheels\torch):
+#   pip install torch --index-url https://download.pytorch.org/whl/cu130
+arxiv
+requests
+pymupdf
+lxml
+sentence-transformers
+chromadb
+typer
+anthropic
+streamlit
+plotly
+pandas
+pyvis
+umap-learn
